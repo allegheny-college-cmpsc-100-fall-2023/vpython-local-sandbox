@@ -10,5 +10,4 @@ This is an ungraded repo that allows you to mess around with Vpython locally jus
 
     <img src = 'assets/copy_thumbnail.png' width = "300px" />
 
-4. Note that because you don't own this repo, you can only change it locally unless you make a PR. If you want to push to the remote, talk to professor. 
-
+4. You can do whatever you want in this repo! It is yours for experimentation. 
