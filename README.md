@@ -1,6 +1,6 @@
 # VPython Sandbox
 
-This is an ungraded repo that allows you to make changes in the sandbox Locally
+This is an ungraded repo that allows you to mess around with Vpython locally just to try things out. 
 
 # To clone this repo...
 
